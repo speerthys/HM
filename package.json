@@ -1,0 +1,9 @@
+{
+  "name": "helvetic-media-html",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "echo 'To view the site, open index.html in your browser.'",
+    "build": "echo 'No build step required for this static site.'"
+  }
+}
